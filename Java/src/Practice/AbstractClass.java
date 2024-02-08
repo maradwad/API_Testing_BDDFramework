@@ -18,12 +18,11 @@ public class AbstractClass{
 	
 	public static void main(String[] args)
 	{
+		
 		emplyeeName a=new emplyeeName();
 		a.empname();
 		a.empid();
 	}
-
-	
 
 }
 

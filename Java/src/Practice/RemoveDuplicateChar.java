@@ -13,9 +13,12 @@ public class RemoveDuplicateChar {
 		{
 			if(ch.contains(str.charAt(i)))
 			{
+				
 				System.out.println(str.charAt(i));
 			}
+			else {
 			ch.add(str.charAt(i));
+			}
 		}
 		System.out.println(ch);
 		

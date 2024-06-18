@@ -28,7 +28,8 @@ public class practiceJava {
 		}
 		
 //		for(Map.Entry<Character, Integer> entry: map.en)
-			
+			int[] arr=new int[3];
+			int s=arr.length;
 	}
 
 }

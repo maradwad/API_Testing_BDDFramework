@@ -300,3 +300,75 @@
 [main] INFO  resource.commonUtils.RestLogger  - X
 [main] INFO  resource.commonUtils.RestLogger  - X
 [main] INFO  resource.commonUtils.RestLogger  - X
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify Create Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - BaseIRI is-https://api.github.com
+[main] INFO  resource.commonUtils.RestLogger  - Resource path  is-/user/repos
+[main] INFO  resource.commonUtils.RestLogger  - Request payload is{
+  "name" : "madhuri",
+  "description" : "This is data driven test Repo1"
+}
+[main] INFO  resource.commonUtils.RestLogger  - Response of request is-{"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify Create Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - BaseIRI is-https://api.github.com
+[main] INFO  resource.commonUtils.RestLogger  - Resource path  is-/user/repos
+[main] INFO  resource.commonUtils.RestLogger  - Request payload is{
+  "name" : "APIBDD",
+  "description" : "This is data driven test Repo2"
+}
+[main] INFO  resource.commonUtils.RestLogger  - Response of request is-{"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify delete Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - Delete URI is-https://api.github.com/repos/maradwad/madhuri
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify delete Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - Delete URI is-https://api.github.com/repos/maradwad/APIBDD
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify Create Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - BaseIRI is-https://api.github.com
+[main] INFO  resource.commonUtils.RestLogger  - Resource path  is-/user/repos
+[main] INFO  resource.commonUtils.RestLogger  - Request payload is{
+  "name" : "madhuri",
+  "description" : "This is data driven test Repo1"
+}
+[main] INFO  resource.commonUtils.RestLogger  - Response of request is-{"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify Create Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - BaseIRI is-https://api.github.com
+[main] INFO  resource.commonUtils.RestLogger  - Resource path  is-/user/repos
+[main] INFO  resource.commonUtils.RestLogger  - Request payload is{
+  "name" : "APIBDD",
+  "description" : "This is data driven test Repo2"
+}
+[main] INFO  resource.commonUtils.RestLogger  - Response of request is-{"message":"Bad credentials","documentation_url":"https://docs.github.com/rest"}
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify delete Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - Delete URI is-https://api.github.com/repos/maradwad/madhuri
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - $$$$$$$$$$$$$$$      Verify delete Repo API     $$$$$$$$$$$$$$
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - ********************************************************
+[main] INFO  resource.commonUtils.RestLogger  - Delete URI is-https://api.github.com/repos/maradwad/APIBDD

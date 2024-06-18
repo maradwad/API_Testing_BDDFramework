@@ -10,6 +10,7 @@ public class Recursion {
 
 	    return reverse(sentence.substring(1)) + sentence.charAt(0);
 	  }
+
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 		Scanner sc=new Scanner(System.in);

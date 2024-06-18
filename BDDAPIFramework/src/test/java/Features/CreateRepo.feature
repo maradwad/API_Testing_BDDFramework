@@ -1,5 +1,5 @@
 @tag
-Feature: Validate create Repository
+Feature: Register 
 
 
   
@@ -17,6 +17,7 @@ Examples:
 				| name    | description                   |
 				| madhuri | This is data driven test Repo1|
 				| APIBDD  | This is data driven test Repo2|
+ 
  
  Scenario: Verify Delete Repo API
   		Given Starting Test case "Verify delete Repo API"
